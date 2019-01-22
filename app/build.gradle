@@ -27,4 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation 'com.google.android.gms:play-services-auth:16.0.0'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.+'
 }
